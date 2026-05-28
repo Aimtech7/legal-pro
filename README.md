@@ -8,6 +8,27 @@ A comprehensive, production-ready case management system designed specifically f
 
 ---
 
+## 🖼️ User Interface Showcase
+
+### 🏠 Home Page Dashboard & Sections
+![Home Page Hero](./docs/assets/home_hero.png)
+*Home Page landing screen featuring search triggers and dynamic case statistics panel.*
+
+![Home Page Practice Areas](./docs/assets/home_practice_areas.png)
+*Interactive Practice Areas navigation cards driven by customized Framer Motion animations.*
+
+![Home Page Footer](./docs/assets/home_footer.png)
+*Global responsive Footer containing links, mapping triggers, and direct office locations.*
+
+### 🔐 Secure Login & Account Creation
+![Login Page](./docs/assets/login.png)
+*Unified sign-in modal support for Advocate, Administrative, and Client user roles.*
+
+![Register Page](./docs/assets/register.png)
+*Interactive registration portal with license and super-key validation logic.*
+
+---
+
 ## 🚀 Key Features
 
 ### For Legal Professionals (Advocates & Admins)
